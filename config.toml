@@ -1,15 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
-
-
-[params]
-footerContent= "Copyright 2003-2021 | IJM Ph The Most Awesome and Amazing"
-menuButtonText= "Learn More"
-SiteLogo = "/IJM_Logo_Horizontal_White_ForWeb.png"
-
-
 [[menu.main]]
 Name = "About"
 url = "/about"
-
-
+[params]
+SiteLogo = "/IJM_Logo_Horizontal_White_ForWeb.png"
+footerContent = "Copyright 2003-2021 | IJM Philippines "
+menuButtonText = "Would you like to learn more? "
